@@ -3,4 +3,4 @@ Sofia es el cluster HPC de la Universidad del Desarrollo (Chile) para realizar i
 
 Ver guía del Usuario del administrador del cluster aquí hpc.udd.cl/wiki.
 
-Ver nuestra guía para trabajar en genómica en el cluster Sofia de la UDD aquí: 
+Ver nuestra guía para trabajar en genómica en el cluster Sofia de la UDD aquí: https://github.com/OceanoHPC/SofiaUDD/wiki
